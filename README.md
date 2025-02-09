@@ -20,7 +20,7 @@ This Masters project creates an end-to-end industry-ready RDBMS Solution for opt
 ![Draft ERD](erd.drawio.png)
 
 ### Revised ERD
-![Revised ERD](FINAL-ERD.drawio.png)
+![Revised ERD](FINAL-ERD.drawio.pdf)
 
 ## Technical Highlights
 - Implemented one-to-one and one-to-many relationships
